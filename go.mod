@@ -1,4 +1,4 @@
-module github.com/trendmicro/tm-v1-fs-golang-sdk
+module github.com/myie/tm-v1-fs-golang-sdk
 
 go 1.23.0
 
@@ -18,5 +18,4 @@ require (
 	golang.org/x/text v0.23.0 // indirect
 	google.golang.org/genproto/googleapis/rpc v0.0.0-20250324211829-b45e905df463 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
-
 )
