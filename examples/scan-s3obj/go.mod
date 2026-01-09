@@ -1,10 +1,10 @@
-module github.com/trendmicro/tm-v1-fs-golang-sdk/examples/scan-s3obj
+module github.com/myie/tm-v1-fs-golang-sdk/examples/scan-s3obj
 
 go 1.23.0
 
 toolchain go1.24.2
 
-replace github.com/trendmicro/tm-v1-fs-golang-sdk => ../../
+replace github.com/myie/tm-v1-fs-golang-sdk => ../../
 
 require (
 	github.com/aws/aws-sdk-go-v2 v1.32.5 // indirect
@@ -33,7 +33,7 @@ require (
 )
 
 require (
-	github.com/trendmicro/tm-v1-fs-golang-sdk v0.0.0
 	github.com/aws/aws-sdk-go-v2/config v1.28.5
 	github.com/aws/aws-sdk-go-v2/service/s3 v1.67.1
+	github.com/myie/tm-v1-fs-golang-sdk v1.7.1
 )
