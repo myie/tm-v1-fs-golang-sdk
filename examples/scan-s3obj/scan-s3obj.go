@@ -14,7 +14,7 @@ import (
 	"os"
 	"strings"
 
-	amaasclient "github.com/trendmicro/tm-v1-fs-golang-sdk"
+	amaasclient "github.com/myie/tm-v1-fs-golang-sdk"
 
 	"github.com/aws/aws-sdk-go-v2/config"
 	"github.com/aws/aws-sdk-go-v2/service/s3"

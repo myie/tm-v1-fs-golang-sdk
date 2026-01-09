@@ -16,7 +16,7 @@ import (
 	"strings"
 	"time"
 
-	amaasclient "github.com/trendmicro/tm-v1-fs-golang-sdk"
+	amaasclient "github.com/myie/tm-v1-fs-golang-sdk"
 )
 
 /*
